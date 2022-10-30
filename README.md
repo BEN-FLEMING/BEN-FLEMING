@@ -28,7 +28,7 @@
 <p align="center"> 
   <a><img alt="follow twitter" title="Follow Twitter" src="https://img.shields.io/twitter/follow/benfleming__?color=%2355960&logo=person-fill&label=twitter&style=for-the-badge&labelColor=1DA1F2"/></a> 
   <a href="https://github.com/BEN-FLEMING?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/BEN-FLEMING?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://github-star-counter.herokuapp.com/user/BEN-FLEMING?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/BEN-FLEMING?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/BEN-FLEMING?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://komarev.com/ghpvc/?username=BEN-FLEMING">
