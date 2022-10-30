@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://twitter.com/benfleming__"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/ben-fs-fleming/ alt="Traw's linkedin"><img width="32px" height="26px"  src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mylinkedinicon.png"/></a>
+  <a href="https://www.linkedin.com/in/ben-fs-fleming/ alt="Ben's linkedin"><img width="32px" height="26px"  src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mylinkedinicon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/coffee.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -30,8 +30,8 @@
   <a href="https://github.com/BEN-FLEMING?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/0xtraw?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/BEN-FLEMING?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xtraw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://komarev.com/ghpvc/?username=0xtraw">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/BEN-FLEMING?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://komarev.com/ghpvc/?username=BEN-FLEMING">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=BEN-FLEMING&style=for-the-badge&color=grey"/></a>
 </p>
 
