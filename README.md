@@ -1,7 +1,6 @@
 <!-- code inspired by - https://github.com/marlenezw -->
 
 <h2 align="center">
-  Welcome to Ben's Github!
  <img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif" width="22" height="22">
 </h2>
 
