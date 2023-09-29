@@ -4,23 +4,6 @@
  <img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif" width="22" height="22">
 </h2>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=CF00F7&width=435&lines=Research+Scientist+at+Imperial+;Computer+Science+%40+UoB;Software%2C+Machine+Learning+%26+Neuro" alt="Typing SVG" /></a>
-</p>
-
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://twitter.com/benfleming__"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/twitter.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/ben-fs-fleming/ alt="Ben's linkedin"><img width="32px" height="26px"  src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/mylinkedinicon.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/coffee.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ben-fleming.vercel.app/"><img width="32px" alt="More content" title="More content on my website" src="https://github.com/0xTRAW/0xTRAW/blob/main/.github/gift.png"/></a>
-</p>
-
-
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
