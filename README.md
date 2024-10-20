@@ -1,1 +1,1 @@
-<h2 align="left"> 🛠️ Building in AI 🛠️ [benf.xyz](https://benf.xyz) </h2>
+<h2 align="left"> 🛠️ Building in AI 🛠️  </h2> [benf.xyz](https://benf.xyz)
