@@ -2,7 +2,7 @@
 <br/>
 
 <h2 align="center">
- 🛠️ Building in AI
+ 🛠️ Building in AI 🛠️
 </h2>
 
 <p align="center">
