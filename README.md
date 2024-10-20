@@ -8,7 +8,7 @@
 <p align="center">
   <p align="left">
    <a href="https://github.com/search?q=user%3Aben-fleming+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Kotlin-FFA500.svg?logo=Kotlin&logoColor=white"></a>
+   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Kotlin-FFA500.svg?logo=Java&logoColor=white"></a>
    <a href="https://github.com/search?q=user%3Aben-fleming+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aben-fleming+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aben-fleming+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
