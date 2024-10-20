@@ -1,7 +1,5 @@
 <h2 align="center"> 🛠️ Building in AI 🛠️ </h2>
 
----
-
 ### 🚀 Languages
 
 <p align="left">
@@ -13,7 +11,6 @@
    <a href="https://github.com/search?q=user%3Aben-fleming+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
 </p>
 
----
 
 ### 🧰 Frameworks and Tools
 
