@@ -1,8 +1,3 @@
-<!-- Header image -->
-<p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Building+in+AI" alt="Building in AI Banner">
-</p>
-
 <h2 align="center"> 🛠️ Building in AI 🛠️ </h2>
 
 ---
